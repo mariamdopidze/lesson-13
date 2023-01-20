@@ -19,15 +19,10 @@ else {console.log('I am an adult');}
 
 
 
-let namberArray =[
-    {age: 32,
-     id:13,
-     namber:25,
-     text:42,
-     firstname:58,   
-      
-    }
-    if (age > 19 || id === 13 ){console.log('more than 19');}
-]
-
- 
+const num =['1' , '2', '3', '4', '5']
+             
+console.log([0]);
+console.log([1]);
+console.log([2]);
+console.log([3]);
+console.log([4]);
